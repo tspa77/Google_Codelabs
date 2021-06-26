@@ -24,7 +24,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.busschedule.databinding.FullScheduleFragmentBinding
 
-class FullScheduleFragment: Fragment() {
+class FullScheduleFragment : Fragment() {
 
     private var _binding: FullScheduleFragmentBinding? = null
 
